@@ -6,6 +6,8 @@ The required data can be found here: https://d396qusza40orc.cloudfront.net/getda
 To use, extract the folder to desired location and place run_analysis.R into the UCI HAR Dataset folder.
 Source the R script, and execute the run() function to obtain the cleaned data set
 
+If you have downloaded the clean data set as a text file, use read.table() in R with header=TRUE
+
 
 
 
